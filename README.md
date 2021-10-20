@@ -1,4 +1,4 @@
-# LIS
+# Sistema de Introducción para Alumnos de Nuevo Ingreso
 Proyecto para Fundamentos de Ingeniería de Software.
 
 ## Objetivo
