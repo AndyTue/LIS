@@ -4,8 +4,13 @@
 Alvarado Castilla Abner Iván
 Chan Puc Ángel Adrián: ajns
 ---
-| Nombre | Contribución                    |
-| ------------- | ------------------------------ |
-| `Chan Puc Ángel Adrián      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
+| Nombre |  Mérida/Tízimin  | Contribución                    |
+| ------------- |------------ |------------------------------ |
+| `Chan Puc Ángel Adrián |   Mérida  | Display the help window.       |
+| `Chan Puc Ángel Adrián |   Mérida  | Display the help window.       |
+| `Chan Puc Ángel Adrián |   Mérida  | Display the help window.       |
+| `Chan Puc Ángel Adrián |   Mérida  | Display the help window.       |
+| `Chan Puc Ángel Adrián |   Mérida  | Display the help window.       |
+| `Chan Puc Ángel Adrián |   Mérida  | Display the help window.       |
+
 
