@@ -1,11 +1,11 @@
 # Breve descripción del producto
-La mayoría de las páginas oficiales de las instituciones busca brindar información de manera en general, sin embargo, no atiende a las dudas específicas de cada persona. Lo que pretende el producto es crear un sitio web donde las personas tenga la oportunidad de poder ser escuchadas y resolver sus dudas de forma eficaz y rápida. De igual forma, poder acceder a diversas publicaciones, libros, documentos, textos e imágenes que otros usuarios proporcionan, esto con el objetivo de llevar una comunicación más fluida.
+La mayoría de las páginas oficiales de las instituciones busca brindar información de manera en general, sin embargo, no atiende a las dudas específicas de cada persona. Lo que pretende el producto es crear un sitio web donde las personas tengan la oportunidad de poder ser escuchadas y resolver sus dudas de forma eficaz y rápida, de igual forma, poder acceder a diversas publicaciones, libros, documentos, textos e imágenes que otros usuarios proporcionan, esto con el objetivo de llevar una comunicación más fluida.
 
 # Requerimientos
 ## Requerimientos funcionales
 ![](https://github.com/AndyTue/LIS/blob/e58d5d7abed09880bb1cb7149ba8b6dc146412a9/Gr%C3%A1ficas/Imagen%203.png)
 ![](https://github.com/AndyTue/LIS/blob/e58d5d7abed09880bb1cb7149ba8b6dc146412a9/Gr%C3%A1ficas/Imagen%204.png)
-Estas preguntas fueron realizadas a alumnos de primer ingreso, con el objetivo de saber algunas de sus necesidades. A base de esto y con lo anterior dicho, el cliente (en este caso el director de la Facultad de Matemáticas) nos comparte algunas de las necesidades y requisitos que el sitio web debe contener.
+Estas preguntas fueron realizadas hacia alumnos de primer ingreso, con el objetivo de saber algunas de sus necesidades. Con base a esto y lo anterior dicho, el cliente (en este caso el director de la Facultad de Matemáticas) nos comparte algunas de las necesidades y requisitos que el sitio web debe contener.
 
 ### Funciones
 > - Compartir documentos, textos, imágenes, videos y otros materiales de apoyo en la página web. Facilitará al usuario poder compartir sus pensamientos o gustos personales. 
@@ -26,14 +26,14 @@ Perfil de invitado: es una opción para acceder a la página, sin embargo, a com
 > - Acceso a documentos, textos, imágenes, videos. 
 > - Visualización de perfiles.  
 > - Visualización de publicaciones.  
-> - Sección de dudas (como anónimo) 
+> - Sección de dudas (como anónimo).
 Restricciones:  
 > - No podrá reaccionar a publicaciones ni comentar.  
 > - No podrá interactuar con los demás usuarios. 
 > - No tendrá la opción de mensajería.  
 > - No podrá acceder a material exclusivo.
 
-Más información
+Más información.
 
 > - La página tendrá información oficial de la UADY. La información que se mostrará en la página web será extraída de la página oficial de la UADY. 
 > - Tendrá links para acceder más rápido a la plataforma UADY. Los links son sacados de la página oficial de la UADY para poder redirigir de manera más rápida al sitio web indicado. 
@@ -58,5 +58,5 @@ Por motivos de ajustes de la programación, el sitio web únicamente está adapt
 Ya que algunas de las funciones no están disponibles en dispositivos como: 
 > - Teléfonos celulares 
 > - Tabletas 
-> - Televisores inteligentes.  
-> - Consolas de videojuegos. 
+> - Televisores inteligentes  
+> - Consolas de videojuegos 
