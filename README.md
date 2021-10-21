@@ -29,8 +29,8 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 
 ## Bitacoras de las sesiones
 
-> - [16 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora/Primera_reuni%C3%B3n.md)
-> - [17 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora/Segunda_reuni%C3%B3n.md)
-> - [18 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora/Tercera_reuni%C3%B3n.md)
-> - [19 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora/Cuarta_reuni%C3%B3n.md)
-> - [20 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora/Quinta_Reuni%C3%B3n.md)
+> - [16 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Primera_reuni%C3%B3n.md)
+> - [17 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Segunda_reuni%C3%B3n.md)
+> - [18 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Tercera_reuni%C3%B3n.md)
+> - [19 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Cuarta_reuni%C3%B3n.md)
+> - [20 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Quinta_Reuni%C3%B3n.md)
