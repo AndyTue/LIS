@@ -8,5 +8,4 @@
 | Manzanero Casanova Mario Arturo | Tizimín |  Líder   | Sí | Sí |Sí| Sí | 100% |16.67 %|
 | Quintana Olivera Luis Javier |  Tizimín | Contribuidor    | Sí | Sí |Sí| Sí | 100%|16.67 %|
 | Turriza Euan Andrés de Jesús|  Tizimín | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
-
 |Total|------------ |------------------------------ |------ | ------- |------------| -----------| ------------|100%|
