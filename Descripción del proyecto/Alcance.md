@@ -42,6 +42,12 @@ Más información
 > - El sitio web debe de funcionar correctamente con los recursos existentes. 
 
 ## Requerimientos no funcionales
+> -	Programado en HTML, CSS y JavaScrip
+> -	Interfaz gráfica amigable y fácil de entender
+> -	El sistema incluirá documentación de ayuda
+> -	El sistema no divulgará información de los usuarios
+> -	Tendrá un buen desempeño
+
 ### Atributos de calidad
 
 > - Usabilidad: personas que quieran obtener información sobre la ingeniería de software de manera rápida, confiable y 100% gratuita 
