@@ -1,7 +1,7 @@
 # Herramientas y metodología
 
 **1.	GitHub:**
-Herramienta utilizada como repositorio para en línea,  permite el trabajo en equipo organizado.
+> Herramienta utilizada como repositorio para en línea,  permite el trabajo en equipo organizado.
 
 **2.	Microsoft Teams:**
  Herramienta utilizada para la comunicación del equipo al poder agendar videollamadas, compartir documentos y calendarizar actividades futuras.
@@ -9,13 +9,13 @@ Herramienta utilizada como repositorio para en línea,  permite el trabajo en eq
  > - 	Equipo: acá se compartieron adelantos y enlaces para documentar el trabajo
 
 **3.	WhatsApp:**
- Herramienta de mensajería instantánea utilizada para una comunicación fácil y rápida.
+ > Herramienta de mensajería instantánea utilizada para una comunicación fácil y rápida.
  
  **4.	Google forms:**
- Permitió la generación de un cuestionario útil para nuestro proyecto.
+ > Permitió la generación de un cuestionario útil para nuestro proyecto.
  
   **5.	GitHub Desktop:**
-Aplicación que nos sirvió de ayuda para interactuar con mayor facilidad en GitHub.
+> Aplicación que nos sirvió de ayuda para interactuar con mayor facilidad en GitHub.
  
 **SCRUM:**
 *	Se determinó usar el método scrum en el proyecto pues es la metodología más completa y vimos en ella una manera de organizarnos de la mejor manera y así completar el trabajo.
