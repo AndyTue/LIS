@@ -24,6 +24,7 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 🔸 [Descripción del proyecto](https://github.com/AndyTue/LIS/tree/Primera_entrega/Documentación%20del%20proyecto)
 🔸 [Gráficas](https://github.com/AndyTue/LIS/tree/Primera_entrega/Gráficas)
 🔸 [Metodología](https://github.com/AndyTue/LIS/tree/Primera_entrega/Metodolog%C3%ADa)
+🔸 [Video primera entrega]()
 
 ## Bitacoras de las sesiones
 
