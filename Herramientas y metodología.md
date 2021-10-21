@@ -11,6 +11,12 @@ Herramienta utilizada como repositorio para en línea,  permite el trabajo en eq
 **3.	WhatsApp:**
  Herramienta de mensajería instantánea utilizada para una comunicación fácil y rápida.
  
+ **4.	Google forms:**
+ Permitió la generación de un cuestionario útil para nuestro proyecto.
+ 
+  **5.	GitHub Desktop:**
+Aplicación que nos sirvió de ayuda para interactuar con mayor facilidad en GitHub.
+ 
 **SCRUM:**
 *	Se determinó usar el método scrum en el proyecto pues es la metodología más completa y vimos en ella una manera de organizarnos de la mejor manera y así completar el trabajo.
 * Product backlog: Se definieron todas las tareas a desarrollar organizándolas por prioridades, para después realizarse en el sprint.
