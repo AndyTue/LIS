@@ -22,3 +22,8 @@
 *	Se determinó usar el método scrum en el proyecto pues es la metodología más completa y vimos en ella una manera de organizarnos de la mejor manera y así completar el trabajo.
 * Product backlog: Se definieron todas las tareas a desarrollar organizándolas por prioridades, para después realizarse en el sprint.
 * Sprints: Se asignaron todas las tareas priorizando las más importantes otorgándole una fecha límite de entrega y pasando inmediatamente a otra.
+
+**Roles**
+> - Product owner (Mario Arturo Manzanero Casanova): es el encargado de plasmar las necesidades del cliente. 
+> - Scrum master (Ángel Adrián Chan Puc): encargado de organizar y mentoriar al development team en el transcurso del proyecto
+> - Development team (Abner Iván Alvarado Castilla, Ángel Adrián Chan Puc, Jesus Oswaldo Chan Uicab, Mario Arturo Manzanero Casanova, Luis Javier Quintana Olivera y Andres de Jesús Turriza Euan): es el equipo de desarrollo responsable de hacer el cumplimiento a los sprints. 
