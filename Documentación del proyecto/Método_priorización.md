@@ -5,5 +5,5 @@
 ![](https://github.com/AndyTue/LIS/blob/main/Gr%C3%A1ficas/Priorizaci%C3%B3n.png)
 
 El anterior método, como bien se dijo al principio, es conocido como ‘Matriz de prioridades de Eisenhower’, en el recuadro que está en la esquina inferior izquierda, podemos ver que es lo menos urgente, como lo menos importante. En este pusimos:
-•	Una interfaz gráfica amable
-•	Incluir documentación de ayuda
+- Una interfaz gráfica amable
+- Incluir documentación de ayuda
