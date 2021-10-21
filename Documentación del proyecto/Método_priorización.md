@@ -29,6 +29,10 @@ Por último, encontramos el recuadro en donde se encuentran las cosas más impor
 -	Que el usuario lleve una buena experiencia al usar la página.
 
 En el primer punto, es de suma importancia, ya que este ayuda a que la página no tenga fallos, ni se trabe, sea una página ágil al usar, así logrando que nuestros usuarios usen y sugieran nuestra página.
-En el segundo punto, de igual manera, está en la sección de lo más importante, ya que cumpliría con uno de nuestros objetivos que es el informar a los alumnos con información oficial de la universidad.
+
+En el segundo punto, de igual manera, está en la sección de lo más importante, ya que cumpliría con uno de nuestros objetivos que es el informar a los alumnos con información 
+oficial de la universidad.
+
 En el siguiente punto, de igual manera lo pusimos entre lo más importante, ya que a todas las personas les gusta que su información no sea compartida y que esté segura al momento de registrarse en alguna plataforma. Esto nos ayudará a que nuestros usuarios se sientas seguros al usar nuestra página, sabiendo que, si meten algún tipo de información, no será compartida.
+
 Por último, punto, tenemos que el usuario se lleve una buena experiencia tras usar nuestra página, esto se logrará llevando a cabo los anteriores requerimientos, para así lograr que nuestro usuario se vaya satisfecho con nuestra página.
