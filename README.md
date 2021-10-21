@@ -21,7 +21,7 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
  
 ## Descripción
 
-🔸 [Descrpción del proyecto](https://github.com/AndyTue/LIS/tree/main/Descripci%C3%B3n%20del%20proyecto)
+🔸 [Descrpción del proyecto](https://github.com/AndyTue/LIS/tree/main/Documentaci%C3%B3n%20del%20proyecto)
 🔸 [Gráficas](https://github.com/AndyTue/LIS/tree/main/Gr%C3%A1ficas)
 🔸 [Metodología](https://github.com/AndyTue/LIS/tree/main/Metodolog%C3%ADa)
 
