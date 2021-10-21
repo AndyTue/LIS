@@ -1,7 +1,7 @@
 # Herramientas y metodología
 
 **1.	GitHub:**
-> Herramienta utilizada como repositorio para en línea,  permite el trabajo en equipo organizado.
+> Herramienta utilizada como repositorio para trabajar en línea, además permite el trabajo en equipo organizado y gestionar el contnrol de versiones del trabajo.
 
 **2.	Microsoft Teams:**
  > Herramienta utilizada para la comunicación del equipo al poder agendar videollamadas, compartir documentos y calendarizar actividades futuras.
