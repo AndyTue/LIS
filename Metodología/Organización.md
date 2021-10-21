@@ -1,6 +1,6 @@
 # Tabla de contribución
 
-| Nombre |  Mérida/Tizimín  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Buena organización| Porcentaje| Puntuación final|
+| Nombre |  MID/UTM  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Buena organización| Porcentaje| Puntuación final|
 | ------------- |------------ |------------------------------ |------ | ------- |------------| -----------| ------------|
 | Alvarado Castilla Abner Iván |   Mérida  | Contribuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
 | Chan Puc Ángel Adrián |   Mérida  | Contribuidor  | Sí | Sí |Sí| Sí | 100% |16.67 %|
