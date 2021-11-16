@@ -15,4 +15,4 @@ En las gráficas que se mostraron con anterioridad podemos observar que para los
 
 ## Producto: 
 
-A raíz de esto nace la idea de crear un Proyecto llamado “Sistema de Introducción para Alumnos de Nuevo Ingreso”.
+A raíz de esto nace la idea de crear un Proyecto llamado “Sistema de Introducción para Alumnos de Nuevo Ingreso” (SIANI). 
