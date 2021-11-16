@@ -52,11 +52,14 @@ Más información.
 
 ### Limitaciones
 
-Por motivos de ajustes de la programación, el sitio web únicamente está adaptado para los siguientes dispositivos: 
+Por motivos de ajustes de la programación, la red social únicamente está adaptado para los siguientes dispositivos: 
 > - Computadoras 
 > - Laptops 
+> - Telefonos celulares
 Ya que algunas de las funciones no están disponibles en dispositivos como: 
-> - Teléfonos celulares 
 > - Tabletas 
 > - Televisores inteligentes  
 > - Consolas de videojuegos 
+###### Compatibles con los sistemas operativos 
+> - iOs 
+> - Android 
