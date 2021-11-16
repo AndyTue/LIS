@@ -1,5 +1,5 @@
 # Breve descripción del producto
-La mayoría de las páginas oficiales de las instituciones busca brindar información de manera en general, sin embargo, no atiende a las dudas específicas de cada persona. Lo que pretende el producto es crear un sitio web donde las personas tengan la oportunidad de poder ser escuchadas y resolver sus dudas de forma eficaz y rápida, de igual forma, poder acceder a diversas publicaciones, libros, documentos, textos e imágenes que otros usuarios proporcionan, esto con el objetivo de llevar una comunicación más fluida.
+La mayoría de las páginas oficiales de las instituciones busca brindar información de manera en general, sin embargo, no atiende a las dudas específicas de cada persona. Lo que pretende el producto es crear un red social donde las personas tengan la oportunidad de poder ser escuchadas y resolver sus dudas de forma eficaz y rápida, de igual forma, poder acceder a diversas publicaciones, libros, documentos, textos e imágenes que otros usuarios proporcionan, esto con el objetivo de llevar una comunicación más fluida.
 
 # Requerimientos
 ## Requerimientos funcionales
