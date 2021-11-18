@@ -1,3 +1,4 @@
+17 de noviembre de 2021
 Acuerdos:
 Se delimitó el contenido del ciclo de vida
 Se acordó la creación de una nueva encuesta
