@@ -1,5 +1,5 @@
 ## Problemática
-Desinformación y mala comunicación en los estudiantes de la carrera Lic. En Ingeniería de Software de la Universidad Autónoma de Yucatán.
+-Desinformación y mala comunicación en los estudiantes de la carrera Lic. En Ingeniería de Software de la Universidad Autónoma de Yucatán.-
 
 Antecedentes:
 -----
@@ -15,4 +15,4 @@ En las gráficas que se mostraron con anterioridad podemos observar que para los
 
 ## Producto: 
 
-A raíz de esto nace la idea de crear un Proyecto llamado “Sistema de Introducción para Alumnos de Nuevo Ingreso”.
+A raíz de esto nace la idea de crear un Proyecto llamado “Sistema de Introducción para Alumnos de Nuevo Ingreso” (SIANI). 
