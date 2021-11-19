@@ -1,4 +1,4 @@
-# Requerimientos
+## Requerimientos
 ## Requeriminetos Funcionales
 > - La red social tendrá informacion oficial de la UADY. La informacion que se mostrará en la página web será extraída de la página oficial de la UADY.
 > - Tendrá links para acceder más rápido a la plataforma UADY. Los links son sacados de la pagina oficial de la UADY para poder redirigir de manera más rápida al sitio web indicado.
