@@ -8,8 +8,16 @@
 > - La red social ofrecerá asesorías. La red social tendrá un apartado donde los alumnos podrán pedir asesorías, por lo contrario igual los alumnos podrán ofrecer asesorías de las materias que mas destacan para poder ayudar a la comunidad a solucionar sus dudas acerca del	 tema. Los alumnos que ofrecerán sus servicios a la comunidad serán recompensados económicamente por los mismos estudiantes que tomarán la sesión. 
 
 ## Requerimientos No Funcionales
-> - Programado en HTML, CSS y JavaScrip
-> - Interfaz gráfica amigable y fácil de entender
-> - El sistema incluirá documentación de ayuda
-> - El sistema no divulgará información de los usuarios
-> - Tendrá un buen desempeño
+> - Programado en HTML, CSS y JavaScrip.
+> - Interfaz gráfica amigable y fácil de entender.
+> - El sistema incluirá documentación de ayuda.
+> - El sistema no divulgará información de los usuarios.
+> - Tendrá un buen desempeño.
+
+# Atributos de calidad
+> - Desplegabilidad (facilidad de despliegue).
+> - Disponibilidad.
+> - Rendimiento.
+> - Seguridad.
+> - Accesibilidad.
+> - Cumplimiento de estándares.
