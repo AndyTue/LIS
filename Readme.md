@@ -1,10 +1,10 @@
 # Sistema de Introducción para Alumnos de Nuevo Ingreso
 Proyecto para Fundamentos de Ingeniería de Software.
-<p align="center">
- 
+<p align="left">
 <img src="https://github.com/AndyTue/LIS/blob/main/Imag%C3%A9nes/Imag%C3%A9nes/LOGO%20SIANI_preview_rev_1.png" title="Perfiles aerodinamicos.">
-
- 
+</p>
+<p align="right">
+<img src="https://github.com/AndyTue/LIS/blob/main/Imag%C3%A9nes/Imag%C3%A9nes/nombre%20siani_preview_rev_1.png" title="Perfiles aerodinamicos.">
 </p>
 ## Objetivo
 
