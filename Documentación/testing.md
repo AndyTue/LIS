@@ -10,4 +10,6 @@ Una vez concluido con el prototipo del proyecto creado en Figma, nos pusimos en 
 > - Se realizaron gráficas para conocer la experiencia de los usuarios. 
 
 ### Conclusiones y gráficas
+Como primer punto hablaremos acerca de la interfaz del producto de la red social "SIANI"
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.58.08.png)
 
