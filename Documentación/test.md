@@ -11,11 +11,14 @@
 > - Nombre 
 > - Fecha de nacimiento 
 > - Correo
+
 Post Data: Podras ingresar como usuario de invitado (Funciones limitadas).
+
 -Modificar tu perfil con tu información personal.
 > - Nombre 
 > - Descripción de ti (gustos, hábitos, pasatiempos, etc).
 > - Avatar/Foto de perfil.
+
 -¡Navegar! 
 > - Disfruta de los multiples servicios que ofrece SIANI
 
