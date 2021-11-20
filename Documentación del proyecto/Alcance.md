@@ -52,6 +52,7 @@ Más información.
 
 ### Limitaciones
 
+Las videollamadas para las asesorías serán realizadas en una plataforma específica de llamadas virtuales, pues consideramos que en esta etapa tan temprana no se podemos igualar o mejorar la calidad de los servicios proporcionados por estas plataformas (Microsoft Teams, Google Meet, Zoom, etcétera) y por este motivo se redireccionará a estas plataformas.
 Por motivos de ajustes de la programación, la red social únicamente está adaptado para los siguientes dispositivos: 
 > - Computadoras 
 > - Laptops 
