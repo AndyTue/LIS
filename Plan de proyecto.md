@@ -9,4 +9,5 @@ El tercer sprint se fue desarrollando la parte de la documentación del proyecto
 > - Especificación del Diseño del producto.
 > - Metodología.
 > - Etc.
+
 En el tercer y último sprint se realizaron las últimas actualizaciones de los sprint ‘s para poder hacer una revisión general del proyecto y poder finalizar el producto final.
