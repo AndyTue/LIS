@@ -10,6 +10,7 @@ Una vez concluido con el prototipo del proyecto creado en Figma, nos pusimos en 
 > - Se realizaron gráficas para conocer la experiencia de los usuarios. 
 
 ### Conclusiones y gráficas
+#### Interfaz 
 Como primer punto hablaremos acerca de la interfaz del producto de la red social "SIANI"
 
 Gráfica 1
@@ -30,3 +31,16 @@ De esas recomendaciones se destaca lo siguiente:
 > - Diseño manimalista.
 > - Modo oscuro.
 > - Interfaz sencillo.
+
+#### Interación 
+Como siguiente punto hablaremos acerca de la interacción y rendimiento del programa.
+
+Gráfica 3
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interacci%C3%B3n%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.02.11.png)
+
+Gráfica 4
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interacci%C3%B3n%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.01.56.png)
+
+El programa del software funciona de una manera adecuada y sin contratiempo, haciendo que los usuarios tengan una buena experiencia (Como se observa en el gráfico 4).
+
+#### General
