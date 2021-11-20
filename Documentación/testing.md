@@ -10,7 +10,7 @@ Una vez concluido con el prototipo del proyecto creado en Figma, nos pusimos en 
 > - Se realizaron gráficas para conocer la experiencia de los usuarios. 
 
 ### 3. Conclusiones y gráficas
-#### 3.1 Interfaz 
+#### 3.1. Interfaz 
 Como primer punto hablaremos acerca de la interfaz del producto de la red social "SIANI"
 
 Gráfica 1
@@ -29,7 +29,7 @@ De esas recomendaciones se destaca lo siguiente:
 > - Modo oscuro.
 > - Interfaz sencillo.
 
-#### 3.2 Interación 
+#### 3.2. Interación 
 Como siguiente punto hablaremos acerca de la interacción y rendimiento del programa.
 
 Gráfica 3
@@ -40,7 +40,20 @@ Gráfica 4
 
 El programa del software funciona de una manera adecuada y sin contratiempo, haciendo que los usuarios tengan una buena experiencia (Como se observa en el gráfico 3).
 
-#### 3.3 General
+#### 3.3. General 
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/General%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.00.png) 
+Puntos que más se reiteran son:
+> - La red social cumple con todos los servicios que ofrece. 
+> - Cumple con los estandares de los usuarios.
+> - Es completa. 
+> - Es Sencilla. 
+> - Es Funcional. 
+
+Cosas en las que podría mejorar: 
+> - Incluir otros servicios. 
+> - Interfaz más limpia.
+
+#### 3.4. Conclusiones
 En esta sección hablaremos acerca de la red social en general incluyendo objetivos, problemáticas, diseño, interfaz, requerimientos, interacción y todo lo que contiene el proyecto SIANI 
 
 #### ¿Cómo podemos mejorar tu experiencia? (Observar resultados en enlaces)
@@ -62,5 +75,5 @@ Consideran que el impacto del proyecto SIANI es positivo y destacan (observar lo
 > - Ayudaría con la comunicación en alumnos y docentes de la institución.
 > - Mejoraría la interacción entre la comunidad del alumnado de la UADY.
 
-#### Conclusiones 
-Como último se compartiran las conclusiones llegadas por el equipo de trabajo
+Sin embargo en la gráfica podemos observar que uno de los usuarios considera medianamente necesaria la idea y esto se debe a que siente que ya existe diversas páginas de la UADY que contienen algunas funciones de SIANI. 
+
