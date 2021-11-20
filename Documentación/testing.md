@@ -11,5 +11,22 @@ Una vez concluido con el prototipo del proyecto creado en Figma, nos pusimos en 
 
 ### Conclusiones y gráficas
 Como primer punto hablaremos acerca de la interfaz del producto de la red social "SIANI"
+
+Gráfica 1
 ![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.58.08.png)
 
+Gráfica 2
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.59.png)
+
+La gran mayoría del grupo evaluador considera que la interfaz es fácil de entender, agradable a la vista humana y además de eso tuvieron una experiencia adecuada, sin embargo, como se puede observar en los gráficos 1 y 2, 2 de 17 personas consideran que el modo de organización de los elementos causa estrés visual y les gustaría una mejor organización, así como una interfaz más limpia, por consiguiente se presentarán algunas de las recomendaciones que el grupo de personas dejo: 
+
+Recomendaciones: 
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.30.png)
+
+![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.37.png)
+
+De esas recomendaciones se destaca lo siguiente: 
+> - Un uso mejor en gama de colores.
+> - Diseño manimalista.
+> - Modo oscuro.
+> - Interfaz sencillo.
