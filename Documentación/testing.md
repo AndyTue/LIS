@@ -42,8 +42,8 @@ El programa del software funciona de una manera adecuada y sin contratiempo, hac
 
 #### 3.3 General
 En esta sección hablaremos acerca de la red social en general incluyendo objetivos, problemáticas, diseño, interfaz, requerimientos, interacción y todo lo que contiene el proyecto SIANI 
-![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.17.png)
-![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.23.png)
+
+#### ¿Cómo podemos mejorar tu experiencia? (Observar resultados en enlaces)
 
 De la pregunta anterior, para mejorar la experiencia del usuario es mejorando la interfaz del software. Los puntos a destacar son basicamente los mismo al punto 3.1
 
