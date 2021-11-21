@@ -8,3 +8,4 @@
 >- Análisis de la transcripción de los resultados de las pruebas
 >- Discusión de la duración del video
 >- Proposición de la estructura del guión del video
+![WhatsApp Image 2021-11-20 at 5 26 37 PM](https://user-images.githubusercontent.com/89328280/142747463-a2505f4c-5bf7-4a65-88ff-2a6df8eea367.jpeg)
