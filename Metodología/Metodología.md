@@ -1,4 +1,6 @@
 # Metodología 
+**SCRUM:**
+![](https://github.com/AndyTue/LIS/blob/9fcd5cb0c9d7d09c328492052ab0b49663690e06/Metodolog%C3%ADa/Por-qu%C3%A9-utilizar-Scrum.jpg)
 > Para la elaboración de nuestro proyecto, optamos por aplicar SCRUM, ya que es un framework de método ágil el cual nos permite trabajar con cambios y actualizaciones de la planificación debido a que es flexible al cambio, pero por otra parte conserva la estabilidad del proyecto, además de que es adaptable a cualquier contexto o cualquier tipo de conocimiento o área ya que una de sus características es que es muy fácil de entender.
 
 **Roles** 
