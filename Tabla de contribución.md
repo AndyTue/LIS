@@ -1,4 +1,27 @@
 # Tablas de contribución
-![image](https://user-images.githubusercontent.com/92699339/142793597-01a2ad06-b5b5-4405-bac4-27e60f4ec0bc.png)
-![image](https://user-images.githubusercontent.com/92699339/142793736-aa4dd621-92f0-4a96-8d66-9234a1e9f4a9.png)
 
+En estas tablas se demuestra la colaboración de cada integrante del equipo en el Sprint 1 y el Sprint 2.
+
+*Sprint 1*
+
+| Nombre |  MID/UMT  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Organización| Porcentaje| Puntuación final|
+| ------------- |------------ |------------------------------ |------ | ------- |------------| -----------| ------------|------|
+| Alvarado Castilla Abner Iván |   Mérida  | Contribuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Chan Puc Ángel Adrián |   Mérida  | Contribuidor  | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Manzanero Casanova Mario Arturo | UMT |  Líder   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Quintana Olivera Luis Javier |  UMT | Contribuidor    | Sí | Sí |Sí| Sí | 100%|16.67 %|
+| Turriza Euan Andrés de Jesús|  UMT | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+|| || |||| Total |100%|
+
+*Sprint 2*
+
+| Nombre |  MID/UMT  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Organización| Porcentaje| Puntuación final|
+| ------------- |------------ |------------------------------ |------ | ------- |------------| -----------| ------------|------|
+| Alvarado Castilla Abner Iván |   Mérida  | Contribuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Chan Puc Ángel Adrián |   Mérida  | Contribuidor  | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Sí | Justificado |Sí| Sí | 100% |16.67 %|
+| Manzanero Casanova Mario Arturo | UMT |  Líder   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Quintana Olivera Luis Javier |  UMT | Contribuidor    | Sí | Justificado |Sí| Sí | 100%|16.67 %|
+| Turriza Euan Andrés de Jesús|  UMT | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+|| || |||| Total |100%|
