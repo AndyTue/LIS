@@ -21,7 +21,7 @@ Gráfica 2
 
 La gran mayoría del grupo evaluador considera que la interfaz es fácil de entender, agradable a la vista humana y además de eso tuvieron una experiencia adecuada, sin embargo, como se puede observar en los gráficos 1 y 2, 2 de 17 personas consideran que el modo de organización de los elementos causa estrés visual y les gustaría una mejor organización, así como una interfaz más limpia, por consiguiente se presentarán algunas de las recomendaciones que el grupo de personas dejo: 
 
-Recomendaciones (Observar en enlaces): 
+Recomendaciones ([Recomendación (parte 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.30.png "Click Aquí")): 
 
 De esas recomendaciones se destaca lo siguiente: 
 > - Un uso mejor en gama de colores.
