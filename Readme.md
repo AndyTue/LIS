@@ -37,7 +37,7 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 
 ### Metodología
 > - [Herramientas](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Herramientas.md "Click aquí")
-> - [Scrum](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Metodolog%C3%ADa.md "Click aquí")
+> - [SCRUM](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Metodolog%C3%ADa.md "Click aquí")
 
 ## Bitácora
 > - [Bitácora segunda entrega](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Bitácora_Segunda_entrega "Click aquí")
