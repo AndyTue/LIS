@@ -25,16 +25,15 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 
 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
  
-## Descripción
+## Documentación de la segunda entrega
 
-🔸 [Descrpción del proyecto](https://github.com/AndyTue/LIS/tree/main/Descripci%C3%B3n%20del%20proyecto)
-🔸 [Gráficas](https://github.com/AndyTue/LIS/tree/main/Gr%C3%A1ficas)
-🔸 [Metodología](https://github.com/AndyTue/LIS/tree/main/Metodolog%C3%ADa)
-
-## Bitacoras de las sesiones
-
-> - [16 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Primera_reuni%C3%B3n.md)
-> - [17 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Segunda_reuni%C3%B3n.md)
-> - [18 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Tercera_reuni%C3%B3n.md)
-> - [19 de octubre del 2021](https://github.com/AndyTue/LIS/blob/51b5b0a694bd35604d68c4ee0fc1043feb2a05e5/Bit%C3%A1cora/Cuarta_reuni%C3%B3n.md)
-> - [20 de octubre del 2021]()
+🔸 [Resumen de la segunda entrega](https://github.com/AndyTue/LIS/blob/527d3f3449ed9c7755afeda4a6e38db829ca3f7b/Documentaci%C3%B3n%20del%20proyecto/Resumen.md "Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
+🔸 []("Click aquí")
