@@ -33,7 +33,6 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 > - [Diseño](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Dise%C3%B1o.md "Click aquí")
 > - [Implementación](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Implementaci%C3%B3n.md "Click aquí")
 > - [Testing](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Testing.md "Click aquí")
-
 > - [Más detalles de la documentación del proyecto](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Documentación%20del%20proyecto "Click aquí")
 
 ### Metodología
