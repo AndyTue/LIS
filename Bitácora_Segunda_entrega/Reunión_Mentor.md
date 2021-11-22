@@ -4,9 +4,9 @@
 >- Sugerencia de revisar los proyectos de años pasados
 >- Recomendaciones de opciones de hosting
 >- Sugerencia de usar a otro equipo como referencia
-> -
-> -
-> -
-> -
-
+#### Acuerdos:
+>- Descripción oficial de la reunión: será una red social
+>- Recordatorio leer las diapositivas
+>- Compromiso de mejorar el contenido en general
+>- Creación de lista de pendientes
 Evidencia:
