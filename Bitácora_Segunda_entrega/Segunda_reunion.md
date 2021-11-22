@@ -5,5 +5,5 @@
 >- Decisión de crear una tabla de los requerimientos tras reorganizarlos
 >- Llevar un registro de los cambios 
 >- Se agendó la siguiente reunión para el 17 de noviembre
-Evidencia: 
+#### Evidencia: 
 ![9](https://user-images.githubusercontent.com/89328280/142351717-5f8a6e09-f4ea-4175-a13d-d629619bbf55.jpeg)
