@@ -9,3 +9,6 @@
 | Quintana Olivera Luis Javier |  UTM | Contribuidor    | Sí | Sí |Sí| Sí | 100%|16.67 %|
 | Turriza Euan Andrés de Jesús|  UTM | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
 || || |||| Total |100%|
+
+![image](https://user-images.githubusercontent.com/92699339/142794109-08db374f-d040-4cc7-97ec-9a7965a50f8e.png)
+![image](https://user-images.githubusercontent.com/92699339/142794132-074952a7-86a5-41bc-b218-2b934aa6356e.png)
