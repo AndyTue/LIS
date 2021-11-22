@@ -28,12 +28,20 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 ## Documentación de la segunda entrega
 
 > - [Resumen de la segunda entrega](https://github.com/AndyTue/LIS/blob/527d3f3449ed9c7755afeda4a6e38db829ca3f7b/Documentaci%C3%B3n%20del%20proyecto/Resumen.md "Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
-> - []("Click aquí")
+> - [Antecedentes](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Antecedentes.md "Click aquí")
+> - [Alcance](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Alcance.md "Click aquí")
+> - [Diseño](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Dise%C3%B1o.md "Click aquí")
+> - [Implementación](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Implementaci%C3%B3n.md "Click aquí")
+> - [Testing](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Testing.md "Click aquí")
+
+> - [Más detalles de la documentación del proyecto](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Documentación%20del%20proyecto "Click aquí")
+
+### Metodología
+> - [Herramientas](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Herramientas.md "Click aquí")
+> - [Scrum](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Metodolog%C3%ADa.md "Click aquí")
+
+## Bitácora
+> - [Bitácora segunda entrega](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Bitácora_Segunda_entrega "Click aquí")
+
+## Video
+> - [Enlace al video "Segunda entrega"](https://youtu.be/Irc0DZO8vKE "Click aquí")
