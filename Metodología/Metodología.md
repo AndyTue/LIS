@@ -34,10 +34,10 @@
 
 > *Sprints:*
 > Son las fases en las que se dividió el Backlog, nuestros Sprints tienen las siguientes características:
-> - Haremos tres Sprints con duración de cuatro semanas cada una.
->   - Sprint 1: Es para el diseño del proyecto.
->   - Sprint 2: Revisaremos donde sacar la información para agregar en la red social.
->   - Sprint 3: Realizaremos el desarrollo del proyecto.
+> - Haremos tres Sprints con duración de cuatro semanas aproximadamente cada una.
+>   - Sprint 1: (octubre 5 - octubre 20) Está enfocado para el diseño del proyecto.
+>   - Sprint 2: (octubre 25 - noviembre 20) Indagaremos información para agregar en la red social.
+>   - Sprint 3: (noviembre 25 - diciembre 5) Realizaremos el desarrollo del proyecto.
 > - El Backlog y los Sprints se gestionan en Monday.com (https://view.monday.com/1923817765-6470b6a3c3176689d48cf46b2f8af975?r=use1). 
 > - Cada que se acabe un Sprint, se realizará la retrospectiva del Sprint.
 
