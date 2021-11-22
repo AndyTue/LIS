@@ -27,13 +27,13 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
  
 ## Documentación de la segunda entrega
 
-🔸 [Resumen de la segunda entrega](https://github.com/AndyTue/LIS/blob/527d3f3449ed9c7755afeda4a6e38db829ca3f7b/Documentaci%C3%B3n%20del%20proyecto/Resumen.md "Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
-🔸 []("Click aquí")
+> - [Resumen de la segunda entrega](https://github.com/AndyTue/LIS/blob/527d3f3449ed9c7755afeda4a6e38db829ca3f7b/Documentaci%C3%B3n%20del%20proyecto/Resumen.md "Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
+> - []("Click aquí")
