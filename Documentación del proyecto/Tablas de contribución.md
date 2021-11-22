@@ -1,4 +1,4 @@
-# Tabla de contribución
+# Tablas de contribución
 
 En estas tablas se demuestra la colaboración de cada integrante del equipo en el Sprint 1 y el Sprint 2.
 
