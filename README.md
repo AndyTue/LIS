@@ -25,18 +25,22 @@ Nuestro principal objetivo para este proyecto es hacer la obtención de informac
 
 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
  
-## Descripción
+## Documentación de la segunda entrega
 
-🔸 [Video primera entrega](https://github.com/AndyTue/LIS/blob/Primera_entrega/Video/Enlace%20del%20video.md)
-🔸 [Descripción del proyecto](https://github.com/AndyTue/LIS/tree/Primera_entrega/Documentación%20del%20proyecto)
-🔸 [Metodología](https://github.com/AndyTue/LIS/tree/Primera_entrega/Metodolog%C3%ADa)
-🔸 [Gráficos](https://github.com/AndyTue/LIS/tree/Primera_entrega/Gráficas)
+> - [Resumen de la segunda entrega](https://github.com/AndyTue/LIS/blob/527d3f3449ed9c7755afeda4a6e38db829ca3f7b/Documentaci%C3%B3n%20del%20proyecto/Resumen.md "Click aquí")
+> - [Antecedentes](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Antecedentes.md "Click aquí")
+> - [Alcance](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Alcance.md "Click aquí")
+> - [Diseño](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Dise%C3%B1o.md "Click aquí")
+> - [Implementación](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Implementaci%C3%B3n.md "Click aquí")
+> - [Testing](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Documentaci%C3%B3n%20del%20proyecto/Testing.md "Click aquí")
+> - [Más detalles de la documentación del proyecto](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Documentación%20del%20proyecto "Click aquí")
 
+### Metodología
+> - [Herramientas](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Herramientas.md "Click aquí")
+> - [SCRUM](https://github.com/AndyTue/LIS/blob/b0859c30acf9e4dabcd87d3a82e6bdff3f7a3f9e/Metodolog%C3%ADa/Metodolog%C3%ADa.md "Click aquí")
 
-## Bitacoras de las sesiones
+## Bitácora
+> - [Bitácora segunda entrega](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Bitácora_Segunda_entrega "Click aquí")
 
-> - [16 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Primera_reuni%C3%B3n.md)
-> - [17 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Segunda_reuni%C3%B3n.md)
-> - [18 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Tercera_reuni%C3%B3n.md)
-> - [19 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Cuarta_reuni%C3%B3n.md)
-> - [20 de octubre del 2021](https://github.com/AndyTue/LIS/blob/main/Bit%C3%A1cora%20General/Quinta_Reuni%C3%B3n.md)
+## Video
+> - [Enlace al video "Segunda entrega"](https://youtu.be/Irc0DZO8vKE "Click aquí")
