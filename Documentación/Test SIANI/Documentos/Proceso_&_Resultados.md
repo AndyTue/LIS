@@ -44,8 +44,8 @@ Las respuestas de cada participante se encuentran en los siguientes enlaces:
 > - [Eyli Burguete Pech ](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Eyli/Eyli.pdf "Click Aquí")
 > - [Andrea Margarita Mendoza Tec](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Andrea%20Margarita%20Mendoza%20Tec/Andrea.pdf "Click Aquí")
 > - [Cristi Ruby Flores Mena](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Cristi%20Rubi/Cristi.pdf "Click Aquí")
-Así como un excel donde se encuentran almacenados los resultados y conclusiones de esta: 
 
+Así como un excel donde se encuentran almacenados los resultados y conclusiones de esta: 
 > - [Excel](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Documentos/UEQ_Data_Analysis_Tool_SIANI.xlsx "Click aquí")
 
 Podemos dar una breve conclusion de las puntuaciones, los resultados fueron favorables en cada una de las categorías como se puede observar en el gráfico: 
