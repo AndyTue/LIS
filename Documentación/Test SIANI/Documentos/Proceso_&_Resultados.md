@@ -49,7 +49,7 @@ Así como un excel donde se encuentran almacenados los resultados y conclusiones
 > - [Excel](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Documentos/UEQ_Data_Analysis_Tool_SIANI.xlsx "Click aquí")
 
 Podemos dar una breve conclusion de las puntuaciones, los resultados fueron favorables en cada una de las categorías como se puede observar en el gráfico: 
-![https://github.com/AndyTue/LIS/blob/cf994c748178c9a1320040a9e2468a3598db4241/Imag%C3%A9nes/Test/Captura%20de%20Pantalla%202021-12-04%20a%20la(s)%2015.31.12.png]
+!(https://github.com/AndyTue/LIS/blob/cf994c748178c9a1320040a9e2468a3598db4241/Imag%C3%A9nes/Test/Captura%20de%20Pantalla%202021-12-04%20a%20la(s)%2015.31.12.png)
 
 ### Sugerencias & reseñas
 A la mayoría de los participantes en el grupo evaluador le gusto la idea de realizar un red social para solucionar esta problemática, sin embargo, respecto a la interfaz del prototipo consideran que aún falta mejorar, algunas de las sugerencias mencionadas son: 
