@@ -29,8 +29,15 @@ Antes de iniciar se les compartira los enlaces a las sesiones tenidas con cada u
 > - [Cristi Ruby Flores Mena](https://github.com/AndyTue/LIS/blob/966db144a97ed8aab3bd235f0769fccfdcd4c91c/Documentaci%C3%B3n/Test%20SIANI/Cristi%20Rubi/Sesi%C3%B3n.md "Click Aquí")
 
 ### Expresiones
+Las expresiones desctacadas durante las sesiones son las siguientes: 
+> - Intriga
+> - Sorpresa
+> - Interés 
+> - Emocionado
+> - Ilusión
 
 ### Puntuación 
+Esto es respecto al cuestionario aplicado al grupo evaluador, calificaron al prototipo en 6 clasificaciones, las cuales son: atracción, transparencia, eficiencia, controlabilidad, estimulación y novedad. 
 
 ### Sugerencias 
 
