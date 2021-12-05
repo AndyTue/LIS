@@ -49,5 +49,5 @@
 > *Sprint planning:*
 > Es la reunión de introducción para cada sprint, se hace al inicio de cada parcial, o sea cada 4 semanas para discutir el objetivo al que queremos llegar en el sprint, nuestros sprints planning tiene una duración aproximada de 30 minutos.
 
-> *Dayli Scrum:*
+> *Daily Scrum:*
 > Es la reunión en donde se retroalimenta sobre lo que hemos avanzado, también se habla sobre dudas o ideas, dicha reunión tiene una duración de 10 minutos, nosotros envés de hacerlo diario lo hacemos de forma semanal o dos veces a la semana ya que se nos haría complicado hacerlo como lo dice SCRUM.
