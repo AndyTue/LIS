@@ -38,6 +38,19 @@ Las expresiones desctacadas durante las sesiones son las siguientes:
 
 ### Puntuación 
 Esto es respecto al cuestionario aplicado al grupo evaluador, calificaron al prototipo en 6 clasificaciones, las cuales son: atracción, transparencia, eficiencia, controlabilidad, estimulación y novedad. 
+Las respuestas de cada participante se encuentran en los siguientes enlaces: 
+> - [Adjany Armenta Aguilar](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Adjany/Adjany.pdf "click aquí")
+> - [Adrián Fonseca Loría](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Adri%C3%A1n%20Fonsea/Adri%C3%A1n_Fonseca.pdf "Click Aquí")
+> - [Eyli Burguete Pech ](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Eyli/Eyli.pdf "Click Aquí")
+> - [Andrea Margarita Mendoza Tec](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Andrea%20Margarita%20Mendoza%20Tec/Andrea.pdf "Click Aquí")
+> - [Cristi Ruby Flores Mena](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Cristi%20Rubi/Cristi.pdf "Click Aquí")
+Así como un excel donde se encuentran almacenados los resultados y conclusiones de esta: 
+> - [Excel](https://github.com/AndyTue/LIS/blob/fde3b931dfaaeddeb2dfe5997927a3b2c9794662/Documentaci%C3%B3n/Test%20SIANI/Documentos/UEQ_Data_Analysis_Tool_SIANI.xlsx "Click aquí")
+Podemos dar una breve conclusion de las puntuaciones, los resultados fueron favorables en cada una de las categorías como se puede observar en el gráfico: 
+![]
 
-### Sugerencias 
-
+### Sugerencias & reseñas
+A la mayoría de los participantes en el grupo evaluador le gusto la idea de realizar un red social para solucionar esta problemática, sin embargo, respecto a la interfaz del prototipo consideran que aún falta mejorar, algunas de las sugerencias mencionadas son: 
+> - Modo oscuro
+> - Otra gama de colores 
+> . 
