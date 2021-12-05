@@ -1,5 +1,5 @@
 # Primera reunión de la segunda entrega 
-### Se llevó a cabo el día de del 2021
+### Se llevó a cabo el día 26 de noviembre del 2021
 
 ##### Puntos relevantes:
 >- Mejorar la entonación
