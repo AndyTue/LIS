@@ -18,10 +18,10 @@
 > Dr. Edgar Cambranes Martínez y Dr. José Luis López Martínez.
 
 **Artefactos de SCRUM**
-> *Backlog:*
+> *Backlog.*
 
-> *Sprints:*
-> Son las fases en las que se dividió el Backlog, nuestros Sprints tienen las siguientes características:
+> *Sprints.*
+
 > - Haremos tres Sprints con duración de cuatro semanas aproximadamente cada una.
 >   - Sprint 1: (octubre 5 - octubre 20) Está enfocado para el diseño del proyecto.
 >   - Sprint 2: (octubre 25 - noviembre 20) Indagaremos información para agregar en la red social.
