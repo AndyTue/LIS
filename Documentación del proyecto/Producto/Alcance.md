@@ -1,14 +1,15 @@
-# Breve descripción del producto
-La mayoría de las páginas oficiales de las instituciones busca brindar información de manera en general, sin embargo, no atiende a las dudas específicas de cada persona. Lo que pretende el producto es crear un red social donde las personas tengan la oportunidad de poder ser escuchadas y resolver sus dudas de forma eficaz y rápida, de igual forma, poder acceder a diversas publicaciones, libros, documentos, textos e imágenes que otros usuarios proporcionan, esto con el objetivo de llevar una comunicación más fluida.
+# Brief description of the product
+Most of the official pages of the institutions seek to provide information in a general way. However, it fails to attend to specific questions of each individual. What our product intends to do is to create a social network where people have the chance to be heard and solve their doubts efficiently and quickly. 
+In the same way, we want the students to be able to access various publications, books, documents, texts and images provided by other users, this in order to carry out a more fluid way of communication.
 
-# Requerimientos
-## Requerimientos funcionales
+# Requirements
+## Functional requirements
 ![](https://github.com/AndyTue/LIS/blob/e58d5d7abed09880bb1cb7149ba8b6dc146412a9/Gr%C3%A1ficas/Imagen%203.png)
 ![](https://github.com/AndyTue/LIS/blob/e58d5d7abed09880bb1cb7149ba8b6dc146412a9/Gr%C3%A1ficas/Imagen%204.png)
-Estas preguntas fueron realizadas hacia alumnos de primer ingreso, con el objetivo de saber algunas de sus necesidades. Con base a esto y lo anterior dicho, el cliente (en este caso el director de la Facultad de Matemáticas) nos comparte algunas de las necesidades y requisitos que el sitio web debe contener.
+These questions were made to first-year students, with the objective of getting to know some of their need. Based on this and the foregoing, the client (in this case, the director of the Faculty of Mathematics) shares with us some of the needs and requirements our web site must fulfill.
 
-### Funciones
-> - Compartir documentos, textos, imágenes, videos y otros materiales de apoyo en la página web. Facilitará al usuario poder compartir sus pensamientos o gustos personales. 
+### Functions
+> - Sharing files, texts, images, videos and other support materials on the web page. It will make it easier for the user to share their thoughts or personal tastes.
 > - Creación de perfiles.  Ayudará a la comunidad para poder identificarse en el sitio y además tendrá derecho a participar en las interacciones de la comunidad 
 > - Acceder como invitado. Es un modo para aquellos que únicamente quieren acceder a la información de la página sin la necesidad de crear una cuenta en la página web 
 > - Croquis de la Facultad de Matemáticas. Facilitará al usuario encontrar lo que necesita. 
