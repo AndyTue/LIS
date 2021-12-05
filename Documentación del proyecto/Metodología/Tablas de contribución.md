@@ -26,3 +26,6 @@ En estas tablas se demuestra la colaboración de cada integrante del equipo en e
 | Turriza Euan Andrés de Jesús|  UMT | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
 || || |||| Total |100%|
 
+*Sprint 3*
+
+![image](https://user-images.githubusercontent.com/92699339/144765729-61db72d7-be5f-4d64-b1f2-fc61b41aa6e6.png)
