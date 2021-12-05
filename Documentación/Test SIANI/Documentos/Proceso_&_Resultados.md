@@ -18,4 +18,19 @@ A continuación se explicará el modo de aplicación del prototipo.
 > 5. Como paso final se les dio un agradecimiento por haber participado. 
 
 ## Resultados 
+En este apartado se hablará de los resultados, las cuales se van a dividir en expresiones, puntuación del cuestionario y sugerencias. 
+
+Antes de iniciar se les compartira los enlaces a las sesiones tenidas con cada uno de los participantes: 
+
+> - ![Adjany Armenta Aguilar]("click aquí" https://github.com/AndyTue/LIS/blob/ea079c12662b06e3fe484dc9252291a4811321bb/Documentaci%C3%B3n/Test%20SIANI/Adjany/Sesi%C3%B3n.md)
+> - Adrián Fonseca Loría 
+> - Eyli Burguete Pech
+> - Andrea Margarita Mendoza Tec 
+> - Cristi Ruby Flores Mena 
+
+### Expresiones
+
+### Puntuación 
+
+### Sugerencias 
 
