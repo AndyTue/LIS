@@ -2,7 +2,7 @@
 
 ### Se llevó a cabo el día 30 de noviembre del 2021
 
-##### Puntos relevantes:
+#### Puntos relevantes:
 ##### Puntos a destacar:
 >- Se habló de la clase de pruebas que utilizaríamos
 >- Discusión sobre el prototipo
