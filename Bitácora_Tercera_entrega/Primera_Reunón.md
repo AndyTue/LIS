@@ -1,4 +1,4 @@
-# Primera reunión de la segunda entrega 
+# Primera reunión de la tercera entrega 
 ### Se llevó a cabo el día 26 de noviembre del 2021
 
 ##### Puntos relevantes:
