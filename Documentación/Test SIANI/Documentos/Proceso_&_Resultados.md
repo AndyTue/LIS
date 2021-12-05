@@ -22,11 +22,11 @@ En este apartado se hablará de los resultados, las cuales se van a dividir en e
 
 Antes de iniciar se les compartira los enlaces a las sesiones tenidas con cada uno de los participantes: 
 
-> - ![Adjany Armenta Aguilar]("click aquí" https://github.com/AndyTue/LIS/blob/ea079c12662b06e3fe484dc9252291a4811321bb/Documentaci%C3%B3n/Test%20SIANI/Adjany/Sesi%C3%B3n.md)
-> - Adrián Fonseca Loría 
-> - Eyli Burguete Pech
-> - Andrea Margarita Mendoza Tec 
-> - Cristi Ruby Flores Mena 
+> - [Adjany Armenta Aguilar](https://github.com/AndyTue/LIS/blob/ea079c12662b06e3fe484dc9252291a4811321bb/Documentaci%C3%B3n/Test%20SIANI/Adjany/Sesi%C3%B3n.md "click aquí")
+> - Adrián Fonseca Loría [ ]("Click Aquí")
+> - Eyli Burguete Pech [ ]("Click Aquí")
+> - Andrea Margarita Mendoza Tec [ ]("Click Aquí")
+> - Cristi Ruby Flores Mena [ ]("Click Aquí")
 
 ### Expresiones
 
