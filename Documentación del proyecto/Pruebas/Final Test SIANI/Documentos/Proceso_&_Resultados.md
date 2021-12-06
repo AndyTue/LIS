@@ -13,7 +13,7 @@
 The prototype application method is explained below:
 > 1. As a first step, a presentation was presented to the evaluation group with the purpose of giving a brief introduction to the project (problems, objectives, solution and goals).
 > 2. As a next step, a file is shared with them via WhatsApp where the link to the prototype was found and they also specified a series of tasks that they had to do within the prototype.
-> 3. Once the prototype test was completed, a validated User Experience Questionnaire (UEQ) was performed. Enlace a la página https://www.ueq-online.org
+> 3. Once the prototype test was completed, a validated User Experience Questionnaire (UEQ) was performed. Link to page https://www.ueq-online.org
 > 4. Some of the evaluators shared their experience and suggestions.
 > 5. As a final step, they were thanked for their participation.
 
