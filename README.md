@@ -40,8 +40,7 @@ Our main objective for this project is to make obtaining information easy and ag
 > - [Design](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Design "Click Aquí")
 > - [Metodology](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Methodology "Click Aquí")
 > - [Process](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Process "Click Aquí")  
-> - [Product](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Product "Click Aquí")
-> - [Requirements](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Requirements "Click Aquí") 
+> - [Product](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Product "Click Aquí") 
 > - [Test](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Test "Click Aquí")
 
 ## Design process
