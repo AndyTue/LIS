@@ -20,19 +20,19 @@ Our main objective for this project is to make obtaining information easy and ag
 > - 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
  
 ## First increment
- > - [Tap to see the first increment documents](https://github.com/AndyTue/LIS/tree/Primera_entrega "Click Aquí").	
- > - [Tap to see the first increment video](https://www.youtube.com/watch?v=Ub62PipPUno&feature=youtu.be&ab_channel=AndyTue24 "Click Aquí").	
-  > - [Tap to see the first increment binnacle](https://github.com/AndyTue/LIS/tree/Primera_entrega/Bit%C3%A1cora_Primera_entrega "Click Aquí").
+ > - [First increment documents](https://github.com/AndyTue/LIS/tree/Primera_entrega "Click Aquí").	
+ > - [First increment video](https://www.youtube.com/watch?v=Ub62PipPUno&feature=youtu.be&ab_channel=AndyTue24 "Click Aquí").	
+  > - [First increment binnacle](https://github.com/AndyTue/LIS/tree/Primera_entrega/Bit%C3%A1cora_Primera_entrega "Click Aquí").
   
 ## Second increment
- > - [Tap to see the second increment documents](https://github.com/AndyTue/LIS/blob/Segunda_entrega/Video/Enlace%20del%20video.md "Click Aquí").	
- > - [Tap to see the second increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
-  > - [Tap to see the second increment binnacle](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Bit%C3%A1cora_Segunda_entrega "Click Aquí").
+ > - [Second increment documents](https://github.com/AndyTue/LIS/blob/Segunda_entrega/Video/Enlace%20del%20video.md "Click Aquí").	
+ > - [Second increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
+  > - [Second increment binnacle](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Bit%C3%A1cora_Segunda_entrega "Click Aquí").
  
 ## Third increment
- > - [Tap to see the third increment documents](https://github.com/AndyTue/LIS/tree/Tercera_entrega "Click Aquí").	
- > - [Tap to see the third increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
-  > - [Tap to see the third increment binnacle](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Third_Binnacle "Click Aquí").
+ > - [Third increment documents](https://github.com/AndyTue/LIS/tree/Tercera_entrega "Click Aquí").	
+ > - [Third increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
+  > - [Third increment binnacle](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Third_Binnacle "Click Aquí").
  
 ## Contend
 > - [Design](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Design "Click Aquí")
