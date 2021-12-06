@@ -7,39 +7,7 @@
 </p>
 
 ## Objective
-
 Our main objective for this project is to make obtaining information easy and agile about any questions that students have, either towards school, or towards their career. Likewise, all information that we provide to our users, is official of the Autonomous University of Yucatán.
-
-## Team
-
-> - 💎Mario Arturo Manzanero Casanova [@Mario-Manzanero](https://github.com/Mario-Manzanero "Click Aquí")
-> - 🔷Andres de Jesús Turriza Euan [@AndyTue](https://github.com/AndyTue "Click Aquí")
-> - 🔷Luis Javier Quintana Olivera [@Luis-J-Quintana](https://github.com/Luis-J-Quintana "Click Aquí") 
-> - 🔷Ángel Adrián Chan Puc [@AngelChan03](https://github.com/AngelChan03 "Click Aquí")  
-> - 🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/Luis-J-Quintana "Click Aquí")
-> - 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
- 
-## First increment
- > - [First increment documents](https://github.com/AndyTue/LIS/tree/Primera_entrega "Click Aquí").	
- > - [First increment video](https://www.youtube.com/watch?v=Ub62PipPUno&feature=youtu.be&ab_channel=AndyTue24 "Click Aquí").	
-  > - [First increment binnacle](https://github.com/AndyTue/LIS/tree/Primera_entrega/Bit%C3%A1cora_Primera_entrega "Click Aquí").
-  
-## Second increment
- > - [Second increment documents](https://github.com/AndyTue/LIS/blob/Segunda_entrega/Video/Enlace%20del%20video.md "Click Aquí").	
- > - [Second increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
-  > - [Second increment binnacle](https://github.com/AndyTue/LIS/tree/Segunda_entrega/Bit%C3%A1cora_Segunda_entrega "Click Aquí").
- 
-## Third increment
- > - [Third increment documents](https://github.com/AndyTue/LIS/tree/Tercera_entrega "Click Aquí").	
- > - [Third increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
-  > - [Third increment binnacle](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Third_Binnacle "Click Aquí").
- 
-## Contend
-> - [Design](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Design "Click Aquí")
-> - [Metodology](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Methodology "Click Aquí")
-> - [Process](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Process "Click Aquí")  
-> - [Product](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Product "Click Aquí")
-> - [Test](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Test "Click Aquí")
 
 ## Design process
 <p align="center">
