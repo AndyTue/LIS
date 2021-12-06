@@ -3,4 +3,4 @@
 
 ##### Relevant points:
 > - The last details of the practical session were discussed
-> -The results of the prototype tests were discussed
+> - The results of the prototype tests were discussed
