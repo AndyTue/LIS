@@ -18,7 +18,7 @@ Our main objective for this project is to make obtaining information easy and ag
 > - 🔷Andres de Jesús Turriza Euan [@AndyTue](https://github.com/AndyTue "Click Aquí")
 > - 🔷Luis Javier Quintana Olivera [@Luis-J-Quintana](https://github.com/Luis-J-Quintana "Click Aquí") 
 > - 🔷Ángel Adrián Chan Puc [@AngelChan03](https://github.com/AngelChan03 "Click Aquí")  
-> - 🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/Luis-J-Quintana "Click Aquí")
+> - 🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/AbnerIvanAlvaradoCastilla "Click Aquí")
 > - 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
  
 ## First increment
@@ -33,7 +33,7 @@ Our main objective for this project is to make obtaining information easy and ag
  
 ## Third increment
  > - [Third increment documents](https://github.com/AndyTue/LIS/tree/Tercera_entrega "Click Aquí").	
- > - [Third increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
+ > - [Third increment video](https://www.youtube.com/watch?v=ouYFjDnFgKQ&ab_channel=QuintanaOliveraLuisJavier "Click Aquí").	
   > - [Third increment binnacle](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Third_Binnacle "Click Aquí").
  
 ## Contend
