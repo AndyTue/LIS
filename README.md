@@ -33,8 +33,12 @@ Our main objective for this project is to make obtaining information easy and ag
  
 ## Contend
 > - [Design](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Design "Click Aquí")
-  
-  
+> - [Metodology](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Methodology "Click Aquí")
+> - [Process](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Process "Click Aquí")  
+> - [Product](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Product "Click Aquí")
+> - [Requirements](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Requirements "Click Aquí") 
+> - [Test](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Test "Click Aquí")
+
 ## Design process
 <p align="center">
 <img src="https://github.com/AndyTue/LIS/blob/main/Imag%C3%A9nes/Interfaz%20(Gr%C3%A1ficas)/Design%20process.gif" title="Perfiles aerodinamicos.">
