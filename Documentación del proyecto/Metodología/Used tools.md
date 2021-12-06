@@ -1,19 +1,23 @@
-# Herramientas y metodología
-
+# Tools 
 **1.	GitHub:**
-> Herramienta utilizada como repositorio para trabajar en línea, además permite el trabajo en equipo organizado y gestionar el contnrol de versiones del trabajo.
+> Tool used as a repository to work online, it also allows organized teamwork and manage the control of versions of the work.
 
 **2.	Microsoft Teams:**
- > Herramienta utilizada para la comunicación del equipo al poder agendar videollamadas, compartir documentos y calendarizar actividades futuras.
- > - 	Reuniones: se agendaron videollamadas para aclarar dudas y compartir ideas acerca del proyecto.
- > - 	Equipo: acá se compartieron adelantos y enlaces para documentar el trabajo
+ > Tool used for team communication to be able to schedule video calls, share documents and schedule future activities.
+ > - Meetings: video calls were scheduled to clarify doubts and share ideas about the project.
+ > - Team: progress and links were shared here to document the work
 
 **3.	WhatsApp:**
- > Herramienta de mensajería instantánea utilizada para una comunicación fácil y rápida.
+ > Instant messaging tool used for easy and fast communication.
  
  **4.	Google forms:**
- > Permitió la generación de un cuestionario útil para nuestro proyecto.
+ > It allowed the generation of a useful questionnaire for our project.
  
   **5.	GitHub Desktop:**
-> Aplicación que nos sirvió de ayuda para interactuar con mayor facilidad en GitHub.
+> Application that helped us to interact more easily on GitHub.
  
+   **6. Figma:**
+> Tool used for the creation of the hi-fi prototype.
+
+  **6. Balsamiq:**
+> Tool used to create the wireframe used as a reference for the creation of the prototype.
