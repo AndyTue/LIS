@@ -11,17 +11,12 @@
 Our main objective for this project is to make obtaining information easy and agile about any questions that students have, either towards school, or towards their career. Likewise, all information that we provide to our users, is official of the Autonomous University of Yucatán.
 
 ## Team
+
 💎Mario Arturo Manzanero Casanova [@Mario-Manzanero](https://github.com/Mario-Manzanero "Click Aquí")
-
 🔷Andres de Jesús Turriza Euan [@AndyTue](https://github.com/AndyTue "Click Aquí")
-
-
 🔷Luis Javier Quintana Olivera [@Luis-J-Quintana](https://github.com/AndyTue "Click Aquí") 
-
-🔷Ángel Adrián Chan Puc [@AngelChan03](https://github.com/AngelChan03 "Click Aquí")
-
+🔷Ángel Adrián Chan Puc [@AngelChan03](https://github.com/AngelChan03 "Click Aquí)
 🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/Luis-J-Quintana "Click Aquí")
-
 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
  
 ## Design process
