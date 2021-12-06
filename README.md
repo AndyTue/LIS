@@ -19,18 +19,22 @@ Our main objective for this project is to make obtaining information easy and ag
 > - 🔷Abner Iván Alvarado Castilla [@AbnerIvanAlvaradoCastilla](https://github.com/Luis-J-Quintana "Click Aquí")
 > - 🔷Jesus Oswaldo Chan Uicab [@Oswaldo-Chan](https://github.com/Oswaldo-Chan "Click Aquí")
  
- ## First increment
+## First increment
  > - [Tap to see the first increment](https://github.com/AndyTue/LIS/tree/Primera_entrega "Click Aquí").	
   > - [Tap to see the first increment video](https://www.youtube.com/watch?v=Ub62PipPUno&feature=youtu.be&ab_channel=AndyTue24 "Click Aquí").	
  
-  ## Second increment
+## Second increment
  > - [Tap to see the second increment](https://github.com/AndyTue/LIS/blob/Segunda_entrega/Video/Enlace%20del%20video.md "Click Aquí").	
   > - [Tap to see the second increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
  
-  ## Third increment
+## Third increment
  > - [Tap to see the third increment](https://github.com/AndyTue/LIS/tree/Tercera_entrega "Click Aquí").	
   > - [Tap to see the third increment video](https://www.youtube.com/watch?v=Irc0DZO8vKE&ab_channel=MarioManzanero "Click Aquí").	
  
+## Contend
+> - [Design](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Design "Click Aquí")
+  
+  
 ## Design process
 <p align="center">
 <img src="https://github.com/AndyTue/LIS/blob/main/Imag%C3%A9nes/Interfaz%20(Gr%C3%A1ficas)/Design%20process.gif" title="Perfiles aerodinamicos.">
