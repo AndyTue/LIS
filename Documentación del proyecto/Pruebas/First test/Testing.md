@@ -40,49 +40,50 @@ Graph 3
 Graph 4
 ![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interacci%C3%B3n%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.01.56.png)
 
-El programa del software funciona de una manera adecuada y sin contratiempo, haciendo que los usuarios tengan una buena experiencia (Como se observa en el gráfico 3).
+The software program works adequately and without mishap, making the users have a good experience (As seen in the graph 3).
 
 #### 3.3. General 
 ![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/General%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.00.png) 
-Puntos que más se reiteran son:
-> - La red social cumple con todos los servicios que ofrece. 
-> - Cumple con los estandares de los usuarios.
-> - Es completa. 
-> - Es Sencilla. 
-> - Es Funcional. 
+Most repeated points: 
+> - The social network complies with all the services it offers.
+> - Meets users standards.
+> - It it complete.
+> - It is simple.
+> - It is functional. 
 
-Cosas en las que podría mejorar: 
-> - Incluir otros servicios. 
-> - Interfaz más limpia.
+Things that could improve:
+> - Include other services.
+> - Cleaner interface.
 
-#### 3.4. Conclusiones
-En esta sección hablaremos acerca de la red social en general incluyendo objetivos, problemáticas, diseño, interfaz, requerimientos, interacción y todo lo que contiene el proyecto SIANI 
+#### 3.4. Conclusions
+In this section we will talk about the social network in general, including objective, problems, design, interface, requirements, interaction and everything contained in the SIANI project
 
-#### ¿Cómo podemos mejorar tu experiencia? 
-Observar los resultados:
-> - ([Respuestas (parte 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.17.png "Click Aquí")):
-> - ([Respuestas (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.23.png "Click Aquí")):
+#### How can we improve your experience? 
+Observe results:
+> - ([Respuestas (parte 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.17.png "Click Here")):
+> - ([Respuestas (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.23.png "Click Here")):
 
-De la pregunta anterior, para mejorar la experiencia del usuario es mejorando la interfaz del software. Los puntos a destacar son basicamente los mismo al punto 3.1
+From the previous question, in order to improve the user experience we will improve the software interface. The highlights are the same as point 3.1.
 
-Los servicios solicitados por los usuarios son los siguientes: 
-> - Videollamadas
-> - Modo oscuro
-> - Videos Introductorios
-> - Sección de preguntas frecuentes
-> - Apartado de memes
+The services requested by users are the following: 
 
-Respecto al impacto del proyecto a la sociedad consideran lo siguiente:
+> - Videocalls
+> - Dark mode
+> - Introductory Videos
+> - Frequently Asked Questions
+> - Memes section
+
+About the impact of the project on society they consider the following:
 ![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.57.png) 
 
-Consideran que el impacto del proyecto SIANI es positivo y destacan: 
+They consider the impact of the SIANI project is positive and they highlight:
 Observar los resultados en los siguientes enlaces:
-> - ([Respuestas (parte 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.29.png "Click Aquí")):
-> - ([Respuestas (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.35.png "Click Aquí")):
+> - ([Answers (part 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.29.png "Click Here")):
+> - ([Respuestas (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.35.png "Click Here")):
 
-En resumen:
-> - Gran apoyo para los alumnos de nuevo ingreso, personas de la faculta de Matemáticas y alumnos que deseen ingresar a la carrera.
-> - Ayudaría con la comunicación en alumnos y docentes de la institución.
-> - Mejoraría la interacción entre la comunidad del alumnado de la UADY.
+In summary:
+> - Huge support for first year students, people from the Faculty of Mathematics and students who want to enter the carrer.
+> - It would help with communication between students and school staff of the institution.
+> - It would improve the interaction between the UADY student community.
 
-Sin embargo en la gráfica podemos observar que uno de los usuarios considera medianamente necesaria la idea y esto se debe a que siente que ya existe diversas páginas de la UADY que contienen algunas funciones de SIANI. 
+However, in the graph we can see that one of the users considers the idea moderately necessary and this is because he feels that there are already several UADY pages that contain some SIANI functions.
