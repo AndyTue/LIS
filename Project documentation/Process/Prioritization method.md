@@ -1,4 +1,4 @@
-# Método de priorización: Prioritization method: Eisenhower Matrix
+# Prioritization method: Eisenhower Matrix
 - Our main objective for this project is to make obtaining information easy and agile about any questions that students have, either towards school, or towards their career. Likewise, all information that we provide to our users is official of the Autonomous University of Yucatán.
 - To make the project effective, we have chosen to develop an ‘Eisenhower priority matrix’, in which we compare and rank the requirements from the least important to the most important.
  
