@@ -1,16 +1,16 @@
-# Prubas al prototipo SIANI 
-### Proceso 
-Se contactaron a 5 estudiantes de la Universidad Auntonoma de Yucatán, 4 de ellos son alumnos de la carrera Lic. en Ingeniería de Software y la persona faltante es estudiantes de otra carrera (esto con el objetivo de ver el comportamiento del protitipo a una persona externa a las carreras de la Facultad de Matemáticas), cabe aclarar que todos son alumnos de Nuevo Ingreso. 
+# SIANI prototype test 
+### Process
+5 students from the Auntonoma University of Yucatán were contacted, 4 of them are students of the Bachelor of Software Engineering and the other person is a student of another career (this with the aim of seeing the behavior of the prototype to a person external to the careers of the Faculty of Mathematics), it should be noted that they are all first-semester students.
 
-#### Participantes 
-> - Adjany Armenta Aguilar - Lic. en Ingeniería de Software
-> - Adrián Fonseca Loría - Lic. en Ingeniería de Software
-> - Eyli Burguete Pech - Lic. en Ingeniería de Software
-> - Andrea Margarita Mendoza Tec - Lic. en Ingeniería de Software
-> - Cristi Ruby Flores Mena - Ingeniería en Química Industrial.
+#### Participants 
+> - Adjany Armenta Aguilar - Bachelor of Software Engineering
+> - Adrián Fonseca Loría - Bachelor of Software Engineering
+> - Eyli Burguete Pech - Bachelor of Software Engineering
+> - Andrea Margarita Mendoza Tec - Bachelor of Software Engineering
+> - Cristi Ruby Flores Mena - Industrial chemical engineering.
 
 ### Pasos
-A continuación se explicará el modo de aplicación del prototipo. 
+The prototype application method is explained below:
 > 1. Como primer paso al grupo evaluador se les presento una presentación con el proposito de dar una breve introducción al proyecto (problemática, objetivos, solución y metas). 
 > 2. Por consiguiente se les compartió un archivo por medio de WhatsApp donde se encontraba el enlace al prototipo y además expecificaban una serie de tareas que debian hacer dentro del prototipo. 
 > 3. Una vez finalizada las pruebas al prototipo, se les realizó un Cuestionario de Experiencia de Usuario (UEQ) validada. Enlace a la página https://www.ueq-online.org
