@@ -1,40 +1,38 @@
-# Tablas de contribución
+# Contribution tables
 
-En estas tablas se demuestra la colaboración de cada integrante del equipo en el Sprint 1 y el Sprint 2.
+These tables demonstrate the collaboration of each team member in Sprint 1, Sprint 2 and Sprint.
 
 *Sprint 1*
 
-| Nombre |  MID/UMT  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Organización| Porcentaje| Puntuación final|
+| Name |  MID/UMT  | Role  | Coming up with ideas | Attend to the reunions | Teamwork | Organization | Percentage| Final score|
 | ------------- |------------ |------------------------------ |------ | ------- |------------| -----------| ------------|------|
-| Alvarado Castilla Abner Iván |   Mérida  | Contribuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Chan Puc Ángel Adrián |   Mérida  | Contribuidor  | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Manzanero Casanova Mario Arturo | UMT |  Líder   | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Quintana Olivera Luis Javier |  UMT | Contribuidor    | Sí | Sí |Sí| Sí | 100%|16.67 %|
-| Turriza Euan Andrés de Jesús|  UMT | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Alvarado Castilla Abner Iván |   Mérida  | Contributor | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Chan Puc Ángel Adrián |   Mérida  | Contributor  | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Manzanero Casanova Mario Arturo | UMT |  Leader   | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Quintana Olivera Luis Javier |  UMT | Contributor    | Yes | Yes |Yes| Yes | 100%|16.67 %|
+| Turriza Euan Andrés de Jesús|  UMT | Contributor   | Yes | Yes |Yes| Yes | 100% |16.67 %|
 || || |||| Total |100%|
 
 *Sprint 2*
-
-| Nombre |  MID/UMT  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Organización| Porcentaje| Puntuación final|
+| Name |  MID/UMT  | Role  | Coming up with ideas | Attend to the reunions | Teamwork | Organization | Percentage| Final score|
 | ------------- |------------ |------------------------------ |------ | ------- |------------| -----------| ------------|------|
-| Alvarado Castilla Abner Iván |   Mérida  | Contribuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Chan Puc Ángel Adrián |   Mérida  | Contribuidor  | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Sí | Justificado |Sí| Sí | 100% |16.67 %|
-| Manzanero Casanova Mario Arturo | UMT |  Líder   | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Quintana Olivera Luis Javier |  UMT | Contribuidor    | Sí | Justificado |Sí| Sí | 100%|16.67 %|
-| Turriza Euan Andrés de Jesús|  UMT | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Alvarado Castilla Abner Iván |   Mérida  | Contributor | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Chan Puc Ángel Adrián |   Mérida  | Contributor  | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Yes | Justified |Yes| Yes | 100% |16.67 %|
+| Manzanero Casanova Mario Arturo | UMT |  Leader   | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Quintana Olivera Luis Javier |  UMT | Contributor    | Yes | Justified |Yes| Yes | 100%|16.67 %|
+| Turriza Euan Andrés de Jesús|  UMT | Contributor   | Yes | Yes |Yes| Yes | 100% |16.67 %|
 || || |||| Total |100%|
 
 *Sprint 3*
 
-| Nombre |  MID/UMT  | Rol  | Aportar ideas | Asistir a las reuniones | Trabajo en equipo| Organización| Porcentaje| Puntuación final|
+| Name |  MID/UMT  | Role  | Coming up with ideas | Attend to the reunions | Teamwork | Organization | Percentage| Final score|
 | ------------- |------------ |------------------------------ |------ | ------- |------------| -----------| ------------|------|
-| Alvarado Castilla Abner Iván |   Mérida  | Contribuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Chan Puc Ángel Adrián |   Mérida  | Contribuidor  | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Manzanero Casanova Mario Arturo | UMT |  Líder   | Sí | Sí |Sí| Sí | 100% |16.67 %|
-| Quintana Olivera Luis Javier |  UMT | Contribuidor    | Sí | Sí |Sí| Sí | 100%|16.67 %|
-| Turriza Euan Andrés de Jesús|  UMT | Contribuidor   | Sí | Sí |Sí| Sí | 100% |16.67 %|
+| Alvarado Castilla Abner Iván |   Mérida  | Contributor | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Chan Puc Ángel Adrián |   Mérida  | Contributor  | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Chan Uicab Jesús Oswaldo | Mérida |  Contrubuidor | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Manzanero Casanova Mario Arturo | UMT |  Leader   | Yes | Yes |Yes| Yes | 100% |16.67 %|
+| Quintana Olivera Luis Javier |  UMT | Contributor    | Yes | Yes |Yes| Yes | 100%|16.67 %|
+| Turriza Euan Andrés de Jesús|  UMT | Contributor   | Yes | Yes |Yes| Yes | 100% |16.67 %|
 || || |||| Total |100%|
-
