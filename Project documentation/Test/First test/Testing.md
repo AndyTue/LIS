@@ -60,8 +60,8 @@ In this section we will talk about the social network in general, including obje
 
 #### How can we improve your experience? 
 Observe results:
-> - ([Respuestas (parte 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.17.png "Click Here")):
-> - ([Respuestas (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.23.png "Click Here")):
+> - ([Answer (part 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.17.png "Click Here")):
+> - ([Answer (part 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.04.23.png "Click Here")):
 
 From the previous question, in order to improve the user experience we will improve the software interface. The highlights are the same as point 3.1.
 
@@ -79,7 +79,7 @@ About the impact of the project on society they consider the following:
 They consider the impact of the SIANI project is positive and they highlight:
 Observar los resultados en los siguientes enlaces:
 > - ([Answers (part 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.29.png "Click Here")):
-> - ([Respuestas (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.35.png "Click Here")):
+> - ([Answer (part 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Conclusiones%20(Gr%C3%A1ficas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.08.35.png "Click Here")):
 
 In summary:
 > - Huge support for first year students, people from the Faculty of Mathematics and students who want to enter the carrer.
