@@ -1,4 +1,4 @@
-### Sistema de Introducción para Alumnos de Nuevo Ingreso
+# Sistema de Introducción para Alumnos de Nuevo Ingreso
 <p align="center">
 <img src="https://github.com/AndyTue/LIS/blob/main/Imag%C3%A9nes/Imag%C3%A9nes/LOGO%20SIANI_preview_rev_1.png" title="Perfiles aerodinamicos.">
 </p>
