@@ -1,37 +1,37 @@
-# Método de priorización: Matriz de Eisenhower
-- Nuestro principal objetivo para este proyecto es hacer la obtención de información fácil y ágil sobre cualquier duda que tengan los estudiantes, ya sea hacia la escuela, o hacia su carrera. Así igual, toda información que proporcionemos hacia nuestros usuarios, sea oficial de la Universidad Autónoma de Yucatán.
-- Para hacer que el proyecto sea eficaz, hemos optado por elaborar una ‘matriz de prioridades de Eisenhower’, en la cual, comparamos y ponemos los requerimientos desde su menor importancia, hasta los que tengan una mayor importancia.
+# Método de priorización: Prioritization method: Eisenhower Matrix
+- Our main objective for this project is to make obtaining information easy and agile about any questions that students have, either towards school, or towards their career. Likewise, all information that we provide to our users is official of the Autonomous University of Yucatán.
+- To make the project effective, we have chosen to develop an ‘Eisenhower priority matrix’, in which we compare and rank the requirements from the least important to the most important.
  
 ![](https://github.com/AndyTue/LIS/blob/main/Gr%C3%A1ficas/Priorizaci%C3%B3n.png)
 
-El anterior método, como bien se dijo al principio, es conocido como ‘Matriz de prioridades de Eisenhower’, en el recuadro que está en la esquina inferior izquierda, podemos ver que es lo menos urgente, como lo menos importante. En este pusimos:
-- Una interfaz gráfica amable.
-- Incluir documentación de ayuda.
+The previous method, as it was said at the beginning, is known as the "Eisenhower Priority Matrix." In the box in the lower left corner, we can see that it is the least urgent, as the least important. In this we put:
+- A friendly graphical interface.
+- Include help documentation.
 
-La interfaz gráfica, como bien, nos sirve mucho para que nuestros usuarios se lleven una mejor experiencia al usar nuestra página web, sin embargo, no es lo primordial para llevar a cabo el proyecto, pero no dejando a un lado, para así mejorarlo con el tiempo. De igual manera, pasa lo mismo con el incluir documentación de ayuda.
-En el recuadro situado en la esquina superior izquierda, se encuentra lo que es importante pero no tan urgente. En ese recuadro encontramos:
-- Diseño web adaptable.
--	Su diseño facilita su uso.
--	Sección para quejas y sugerencias.
+The graphical interface, as well, helps us a lot so that our users get a better experience when using our website, however, it is not the main thing to carry out the project, but not leaving aside, in order to improve it with time. Similarly, the same thing happens with including help documentation.
+In the box in the upper left corner, you will find what is important but not so urgent. In that box we find:
+- Responsive web design.
+- Its design makes it easy to use.
+- Section for complaints and suggestions.
 
-El diseño web adaptable es de importancia, sin embargo no es tan urgente ya que este sirve, para que, tanto como los dispositivos móviles y los de PC, puedan ver la página de forma agradable en sus dispositivos.
-El otro punto es que su diseño facilita su uso, esto sirve para que al usuario no se le haga complicado el uso de la página. Por último, está la sección para quejas y sugerencias, de igual manera es importante tenerla, ya que así podemos mejorar con el tiempo nuestra página web, sin embargo, no es de tanta urgencia.
-En la esquina inferior derecha, encontramos lo que es urgente, sin embargo, no es de tanta importancia, en este encontramos:
+Adaptive web design is important, however it is not so urgent since it serves so that both mobile devices and PCs can see the page in a pleasant way on their devices.
+The other point is that its design facilitates its use, this serves so that the user does not find it difficult to use the page. Finally, there is the section for complaints and suggestions, in the same way it is important to have it, since this way we can improve our website over time, however, it is not so urgent.
+In the lower right corner, we find what is urgent, however, it is not of such importance, in this we find:
 
--	Diversos links para llevar a los usuarios a secciones directas.
+- Various links to take users to direct sections.
 
-Este punto, nos sirve para que los usuarios se lleven una mejor experiencia, ya que, con poner el link, los llevará directo a la sección de la página en la que deseen estar.
-Por último, encontramos el recuadro en donde se encuentran las cosas más importantes y que de igual manera son urgentes. En ese recuadro encontramos:
+This point helps us so that users get a better experience, since, by putting the link, it will take them directly to the section of the page where they want to be.
+Finally, we find the box where the most important things are found and that are also urgent. In that box we find:
 
--	 La página web debe funcionar correctamente.
--	Contar con información oficial de la Universidad.
--	No divulgar ningún tipo de información de nuestros usuarios.
--	Que el usuario lleve una buena experiencia al usar la página.
+- The web page must work correctly.
+- Have official information from the University.
+- Do not disclose any type of information about our users.
+- That the user has a good experience when using the page.
 
-En el primer punto, es de suma importancia, ya que este ayuda a que la página no tenga fallos, ni se trabe, que sea una página ágil al usar, así logrando que nuestros usuarios usen y sugieran nuestra página.
+In the first point, it is of the utmost importance, since this helps the page not to have errors, or to get stuck, that it is an agile page to use, thus making our users use and suggest our page.
 
-En el segundo punto, de igual manera, está en la sección de lo más importante, ya que cumpliría con uno de nuestros objetivos que es el informar a los alumnos con información oficial de la universidad.
+In the second point, in the same way, it is in the most important section, since it would fulfill one of our objectives, which is to inform students with official information from the university.
 
-En el siguiente punto, de igual manera lo pusimos entre lo más importante, ya que a todas las personas les gusta que su información no sea compartida y que esté segura al momento de registrarse en alguna plataforma, esto nos ayudará a que nuestros usuarios se sientan seguros al usar nuestra página, sabiendo que, si meten algún tipo de información, no será compartida.
+In the next point, in the same way we put it among the most important, since all people like that their information is not shared and that it is safe when registering on any platform, this will help us make our users feel safe when using our page, knowing that, if you enter any type of information, it will not be shared.
 
-Por último, tenemos el requerimiento de que el usuario se lleve una buena experiencia tras usar nuestra página, esto se logrará llevando a cabo los anteriores requerimientos, para así lograr que nuestro usuario se vaya satisfecho con nuestra página.
+Finally, we have the requirement that the user have a good experience after using our page, this will be achieved by carrying out the previous requirements, in order to ensure that our user is satisfied with our page.
