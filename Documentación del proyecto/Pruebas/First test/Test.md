@@ -1,71 +1,71 @@
 ## SIANI "Sistema de Inducción para Alumnos de Nuevo Ingreso"
 
-¡Hola! Mucho gusto, somos el equipo de trabajo de la empresa SIANI y queremos saber acerca de tu experiencia como tester.
+Hi! Nice to meet you, we are the SIANI company work team and we want to know about your experience as a tester.
 
-#### ESPECIFICACIONES
+#### Specs
 
-¿Qué es SIANI? Es una red social especializada en el alumnado de la Facultad de Matemáticas al igual que aquellos que deseen ingresar a alguna de las carreras que ofrece esta Facultad. 
+It's a social network specialized on the students of the Faculty of Mathematics, as well as those who wish to enter any of the careers offered by this Faculty.
 
-### ¿Cómo usarla? 
--Registrarte/Ingresar con tu correo institucional o correo personal
-> - Nombre 
-> - Fecha de nacimiento 
-> - Correo
+### How to use it? 
+- Sign up/Login with your institutional email or personal email
+> - Name 
+> - Birthday 
+> - E-mail
 
-Post Data: Podras ingresar como usuario de invitado (Funciones limitadas).
+P. S: You will be able to access as a guest user (limited features).
 
--Modificar tu perfil con tu información personal.
-> - Nombre 
-> - Descripción de ti (gustos, hábitos, pasatiempos, etc).
-> - Avatar/Foto de perfil.
+- Modify your profile with your personal information.
+> - Name 
+> - Description of yourself (likes, habits, hobbies, etc).
+> - Avatar/Profile picture.
 
--¡Navegar! 
-> - Disfruta de los multiples servicios que ofrece SIANI
+- Browse! 
+> - Enjoy the multiple services that SIANI offers
 
-### Servicios de SIANI
-> - Mensajería 
-> - Apartado de reportes y sugerencias
-> - Acceso a Perfiles 
-> - Postear contenido 
-> - Acceso a material oficial de la UADY
-> - Enlaces a páginas oficiales de la UADY
-> - Sección de asesorías
-> - Noticias y eventos importantes.
+### SIANI SERVICES
+> - Messenger services 
+> - Reports and suggestions section
+> - Access to Profiles
+> - Post content
+> - Access to official UADY material
+> - Links to official pages of the UADY
+> - Advisory section
+> - Important news and events.
+> 
+### Compatibility 
+> - Smartphones, tablets and computers
+> - iOs and Android.
 
-### Compatibilidad 
-> - Telefonos celulares, tablets y computadoras
-> - Sistema operativo iOs y Android.
-
-### Enlace
+### Link
 https://www.figma.com/proto/qZKICh2Cj4tN9iSKIJLsRp/SIANI?node-id=86%3A75&starting-point-node-id=90%3A53
 
-### Interfaz
-> - ¿La interfaz de la red social es amistosa a la vista?
-> - ¿Consideras adecuado la forma de organización de los elementos visuales?
-> - Si tu respuesta fue no, ¿Cómo podríamos mejorar?
-> - En general, ¿Cómo podríamos mejorar la interfaz?
-> - Del 1-10 ¿Qué tan agradable fue tu experiencia con la interfaz de la red social?
+### Interface
+> - Is the social network's interface friendly to look at?
+> - Do you consider the form of organization of the visual elements adequate?
+> - If your answer was no, how could we improve?
+> - Generally speaking, how could we improve the interface?
+> - From 1-10, how pleasant was your experience with the social network interface?
 
-### Interacción
-> - ¿La red social responde de manera adecuada?
-> - Si tu respuesta fue “no”, ¿En qué aspecto?
-> - Del 1-10 ¿Qué tan agradable fue tu experiencia con la interacción de la red social?
+### Interaction
+> - Does the social network answer adequately
+> - If your answer was no, how could we improve?
+> - From 1-10, how pleasant was your experience with the social network interactivity?
 
 ### General
-> - ¿SIANI cumple con todos los servicios que ofrece?
-> - Si tu respuesta fue “no”, mencionar cuales
-> - ¿Sientes completa la red social?
-> - Si la respuesta es no, ¿por qué?
-> - ¿Tuviste algún inconveniente al entrar con algún dispositivo electrónico?
-> - Respecto a la pregunta anterior, ¿Cuál(es)?
-> - Del 1-10 ¿Qué tan agradable fue tu experiencia en general de la red social?
+> - Does SIANI comply to all the services it offers?
+> - If your answer was "no", mention which services it didn't comply with
+> - Do you feel like the social network is complete?
+> - f your answer was no, why?
+> - Did you have any inconvenience when entering with any electronic device?
+> - About the previous question, which one(s)?
+> - From 1-10, how pleasant was your experience with the social network as a whole?
 
-### Conclusiones
-> - ¿Cómo podríamos mejorar tu experiencia?
-> - ¿Qué otros servicios te gustaria encontrar en la red social?
-> - Del 1-10 ¿Qué tan necesario consideras que es el proyecto?
-> - Respecto a la pregunta anterior ¿Por qué?
-> - En esta sección puedes anexar un comentario.
+### Conclusions
+> - How could we improve your experience?
+> - What other services would you like to find on the social network?
+> - From 1 to 10, How necessary do you consider the project to be?
+> - About the last question, why?
+> - You can append a commentary here
 
-Enlace al formulario 
+Link to the form
 https://docs.google.com/forms/d/e/1FAIpQLSfWYq4BK8Sx--QpanxQNcRUzgJMd6Fp6Lo6tXAsvLVN93_8BQ/viewform?usp=sf_link
