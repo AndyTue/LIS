@@ -25,8 +25,8 @@ Our main objective for this project is to make obtaining information easy and ag
 </p>
 
 ## High fidelity prototype
+[Tap to see the hi-fi prototype](https://www.figma.com/proto/qZKICh2Cj4tN9iSKIJLsRp/SIANI?node-id=90%3A53&scaling=contain&page-id=0%3A1&starting-point-node-id=90%3A53 "Click Aquí").	
+
 <p align="center">
 <img src="https://github.com/AndyTue/LIS/blob/main/Imag%C3%A9nes/Interfaz%20(Gr%C3%A1ficas)/Inicio.png" title="Perfiles aerodinamicos.">
 </p>
-
-[Tap to see the hi-fi prototype](https://www.figma.com/proto/qZKICh2Cj4tN9iSKIJLsRp/SIANI?node-id=90%3A53&scaling=contain&page-id=0%3A1&starting-point-node-id=90%3A53 "Click Aquí").	
