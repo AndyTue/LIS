@@ -3,33 +3,21 @@
 > - The social network will have official information of the UADY. The information displayed on the network will be extracted out of the official page.
 > - It will feature links in order to access faster to the UADY platform. Links are taken out of UADY's official page in order to quickly redirect to the indicated website.
 > - The network's design will facilitate its correct usage. It will count with a particular design that will make it easier for the user to manage it.
-> - Tendrá una sección para quejas o sugerencias ante fallos de la red social o errores de la misma. La red social tendrá un apartado especificado donde los usuarios podrán escribir una queja o una sugerencia para la página.
-> 
-> - La red social debe de funcionar correctamente con los recursos existentes.
-> 
-> - La red social ofrecerá asesorías. La red social tendrá un apartado donde los alumnos podrán pedir asesorías, por lo contrario igual los alumnos podrán ofrecer asesorías de las materias que mas destacan para poder ayudar a la comunidad a solucionar sus dudas acerca del	 tema. Los alumnos que ofrecerán sus servicios a la comunidad serán recompensados económicamente por los mismos estudiantes que tomarán la sesión. 
-> 
+> - It will have a section for complaints or suggestions in the event of failures of the social network or errors of the same. The social network will have a specified section where users can write a complaint or a suggestion for the page.
+> - The social network must function properly with the existing resources.
+> - The network will offer consultancies. It will feature a section where the students will be able to schedule consultancies, as well as offer advisory themselves on assignments, in which they stand out the most in order to help the community to solve their doubts about the subject. Students who offer their services to the community could be rewarded financially by the same students who will take the session.
 
 # Non-Functional Requirements
-> - Programado en HTML, CSS y JavaScript.
-> 
-> - Interfaz gráfica amigable y fácil de entender.
-> 
-> - El sistema incluirá documentación de ayuda.
-> 
-> - El sistema no divulgará información de los usuarios.
-> 
-> - Tendrá un buen desempeño.
-> 
+> - Programmed in HTML, CSS y JavaScript.
+> - Friendly graphic interface and easy to understand.
+> - The system will include help documentation.
+> - The system will not release information of the users without their consent.
+> - It will have a good performance.
 
 # Quality Attributes
-> - Disponibilidad. La aplicación estará disponible para los usuarios de Android o iOS
-> 
-> - Rendimiento. El software de la red social esta elaborado para que su rendimiento siempre este al máximo con el dispositivo. 
-> 
-> - Seguridad. La seguridad de la aplicación esta hecha para que el usuario tenga su informacion protegida y respaldada.
-> 
-> - Accesibilidad. El sistema que tendrá la aplicación será de uso fácil para que cualquier usuario pueda usarlo sin tener complicaciones.
-> 
-> - Cumplimiento de estándares. Nuestro compromiso con este proyecto será demostrado con la calidad de nuestra aplicación y para que le usuario se siente cómodo y seguro de usarlo. 
+> - Availability. The app will be available for Android and iOS users.
+> - Performance. THe software of the social network is made so that its performance is always at its best with the device.
+> - Security. The security of the application is made so that the user will have their information protected and backed up.
+> - Accessibility. The system that the app will have will be easy to use so that any user can use it with no complications.
+> - Compliance with standards. Our commitment to this project will be demonstrated with the quality of our application and so that the user feels comfortable and safe to use it.
 > 
