@@ -1,38 +1,38 @@
-# 1. Resultados del testing
-A continuación se presentarán los resultados del testing del proyecto SIANI "Sistema de Inducción para Alumnos de Nuevo Ingreso". 
+# 1. Test results
+The results of the SIANI project "Induction system for new students" will be presented below.
 
-Una vez concluido con el prototipo del proyecto creado en Figma, nos pusimos en contacto con algunos alumnos de la Facultad de Matemáticas (posibles usuarios), para evaluar el diseño y la implementación de la red social SIANI. 
+Once the prototype of the project created in Figma was finished, we got in touch with some students from the Faculty of Mathematics (possible users), to evaluate the design and implementation of the SIANI social network.
 
-### 2. Procedimiento
-> - Se les dio una inducción al proyecto (problemática, objetivos y funciones).
-> - Se les compartió el prototipo.
-> - Después de que los tester navegaran en la plataforma, se les realizaron una serie de preguntas.
-> - Se realizaron gráficas para conocer la experiencia de los usuarios. 
+### 2. Procedure
+> - They were given an induction to the project (problems, objectives and functions).
+> - The prototype was shared with them.
+> - After the testers navigated the platform, they were asked a series of questions.
+> - Graphics were made to know the experience of the users.
 
-### 3. Conclusiones y gráficas
-#### 3.1. Interfaz 
-Como primer punto hablaremos acerca de la interfaz del producto de la red social "SIANI"
+### 3. Conclusions and graphics
+#### 3.1. Interface
+As a first point we will talk about the product interface of the social network "SIANI"
 
-Gráfica 1
-![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.58.08.png)
+Figure 1
+! [] (https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20 (Answers) / Capture% 20de% 20Pantalla% 202021-11-20% 20a% 20la (s) % 2016.58.08.png)
 
-Gráfica 2
-![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.59.png)
+Graph 2
+! [] (https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interfaz%20 (Answers) / Capture% 20de% 20Pantalla% 202021-11-20% 20a% 20la (s) % 2016.59.59.png)
 
-La gran mayoría del grupo evaluador considera que la interfaz es fácil de entender, agradable a la vista humana y además de eso tuvieron una experiencia adecuada, sin embargo, como se puede observar en los gráficos 1 y 2, 2 de 17 personas consideran que el modo de organización de los elementos causa estrés visual y les gustaría una mejor organización, así como una interfaz más limpia, por consiguiente se presentarán algunas de las recomendaciones que el grupo de personas dejó: 
+The vast majority of the evaluating group considers that the interface is easy to understand, pleasing to the human eye and in addition to having a suitable experience, however, as can be seen in graphs 1 and 2, 2 out of 17 people consider that the form Organizing the elements causes visual stress and they would like a better organization, as well as a cleaner interface, so some of the recommendations left by the group of people will be presented:
 
-Recomendaciones:
-> - ([Recomendaciones (parte 1)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.30.png "Click Aquí")):
-> - ([Recomendaciones (parte 2)](https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Interfaz%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2016.59.37.png "Click Aquí")):
+Recommendations:
+> - ([Recommendations (part 1)] (https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Interfaz%20 (Answers) / Capture% 20de% 20Screen% 202021-11- 20% 20a% 20la (s)% 2016.59.30.png "Click here")):
+> - ([Recommendations (part 2)] (https://github.com/AndyTue/LIS/blob/7cf5e4d01b70572c7f1c5bf8d9c79054de11bc52/Imag%C3%A9nes/Interfaz%20 (Answers) / Capture% 20de% 20Screen% 202021-11- 20% 20a% 20la (s)% 2016.59.37.png "Click here")):
 
-De esas recomendaciones se destaca lo siguiente: 
-> - Un uso mejor en gama de colores.
-> - Diseño manimalista.
-> - Modo oscuro.
-> - Interfaz sencillo.
+Of these recommendations, the following stand out:
+> - Better use in the color gamut.
+> - Manimalist design.
+> - Dark mode.
+> - Simple interface.
 
-#### 3.2. Interación 
-Como siguiente punto hablaremos acerca de la interacción y rendimiento del programa.
+#### 3.2. Interaction
+As the next point we will talk about the interaction and execution of the program.
 
 Gráfica 3
 ![](https://github.com/AndyTue/LIS/blob/ea204e9092a216729af8c02ba64f0ab92e338912/Imag%C3%A9nes/Interacci%C3%B3n%20(Respuestas)/Captura%20de%20Pantalla%202021-11-20%20a%20la(s)%2017.02.11.png)
