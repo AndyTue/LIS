@@ -36,6 +36,9 @@ Our main objective for this project is to make obtaining information easy and ag
  > - [Third increment video](https://www.youtube.com/watch?v=ouYFjDnFgKQ&ab_channel=QuintanaOliveraLuisJavier "Click Aquí").	
   > - [Third increment binnacle](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Third_Binnacle "Click Aquí").
  
+  ## Sesión práctica
+ > - [Presentación de la sesión](https://github.com/AndyTue/LIS/blob/Tercera_entrega/Sesi%C3%B3n%20pr%C3%A1ctica.%20WEBFLOW.pdf "Click Aquí").	
+
 ## Contend
 > - [Design](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Design "Click Aquí")
 > - [Metodology](https://github.com/AndyTue/LIS/tree/Tercera_entrega/Project%20documentation/Methodology "Click Aquí")
